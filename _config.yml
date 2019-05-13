@@ -108,9 +108,9 @@ analytics:
 author:
   name             : "Jeong Woo Tae"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "광운대학교 컴퓨터소프트웨어학과 졸업"
-                      "1993년 11월 10일생"
-                      "Emain : wjddnxo1478@naver.com"
+  bio              : "광운대학교 컴퓨터소프트웨어학과 졸업\n
+                      1993년 11월 10일생\n
+                      Email : wjddnxo1478@naver.com"
   location         : "Seoul"
   email            : "wjddnxo1478@naver.com"
   
