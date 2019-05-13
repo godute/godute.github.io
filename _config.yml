@@ -40,7 +40,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -106,11 +106,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jeong Woo Tae"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "광운대학교 컴퓨터소프트웨어학과 졸업"
+  location         : "Seoul"
+  email            : "wjddnxo1478@naver.com"
+  
+
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
