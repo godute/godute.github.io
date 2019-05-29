@@ -24,6 +24,12 @@ tf-pose
 LSTM
 ```
 
+![pose1](../image/pose1.png)
+![pose2](../image/pose2.png)
+![pose3](../image/pose3.png)
+![pose4](../image/pose4.png)
+![pose5](../image/pose5.png)
+![pose6](../image/pose6.png)
 
 소스코드 [DropTheBeat][dropthebeat-gh]
 
