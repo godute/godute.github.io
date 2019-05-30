@@ -16,20 +16,18 @@ categories: image-process c++ mfc huffman-coding
 
 2. 주파수 도메인 필터 구현
 * IDFT(Inverse Discrete Fourier Transform) <br>
-  이산 푸리에 역변환으로 주파수 성분을 2D 이미지로 변환
-
+  이산 푸리에 역변환으로 주파수 성분을 2D 이미지로 변환 <br>
 * LPF(Low Pass Filter) <br>
-  저주파만 통과시키는 필터 구현
+  저주파만 통과시키는 필터 구현<br>
 `ideal LPF` `butterworth LPF` `gaussian LPF`
-
 * HPF(High Pass Filter) <br>
-  고주파만 통과시키는 필터 구현
+  고주파만 통과시키는 필터 구현<br>
 `ideal LPF` `butterworth LPF` `gaussian LPF`
 
 3. Huffman Coding <br>
  허프만 코딩을 이용해 이미지 압축&해제
 
-### 사용 스택 <br>
+### 환경 <br>
 
 `C++` `MFC`
 
