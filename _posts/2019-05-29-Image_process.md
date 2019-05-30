@@ -3,6 +3,9 @@ title: "Image Processing"
 date: 2019-05-29 21:24:28 -0400
 categories: image-process c++ mfc huffman-coding  
 ---
+# 기간 <br>
+2017.09~2017.12
+
 # 디지털 영상처리 프로젝트 <br>
 
 1. MFC를 이용해 다양한 필터 구현하기

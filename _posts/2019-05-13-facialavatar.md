@@ -3,6 +3,9 @@ title: "Facial Avatar"
 date: 2019-05-13 21:19:28 -0400
 categories: face-recognition face-verification facenet joint-bayesian 
 ---
+# 기간 <br>
+2017.11 ~ 2018.05
+
 # 사용자의 표정을 따라하는 3D 캐릭터 <br>
 
 * dlib를 이용해 얼굴의 특징점 추출
