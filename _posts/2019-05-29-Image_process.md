@@ -1,7 +1,7 @@
 ---
 title: "Image Processing"
 date: 2019-05-29 21:24:28 -0400
-categories: [Proejct]
+categories: [Project]
 tags: [image-process, c++, mfc, huffman-coding]  
 ---
 # 기간 <br>

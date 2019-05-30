@@ -1,7 +1,7 @@
 ---
 title: "Facial Avatar"
 date: 2019-05-13 21:19:28 -0400
-categories: [Proejct]
+categories: [Project]
 tags: [face-recognition,face-verification,facenet,joint-bayesian]
 ---
 # 기간 <br>
