@@ -19,4 +19,6 @@ Profile
 * Development Stack <br>
 
     `C` `C++` `Java` `Python` `Django` `tensorflow` `scikit-learn` `opencv` `jupyter` `linux` etc... 
-        
+* Interests <br>
+    `AI` `BigData` `Computer Vision` etc...
+    
