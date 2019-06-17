@@ -2,7 +2,7 @@
 title: "Facial Avatar"
 date: 2019-05-13 21:19:28 -0400
 categories: [Project]
-tags: [face-recognition,face-verification,facenet,joint-bayesian]
+tags: [face-recognition, dlib ,opencv, opengl]
 ---
 # 기간 <br>
 2017.11 ~ 2018.05
